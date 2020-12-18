@@ -1,4 +1,4 @@
-NOTE TO GRADER: Index.html is my landing page, please start there. From index.html, you can navigate to each of the visualization pages, comparison page, and the data table page.
+https://sumitz1207.github.io/
 
 # Web-Design-Challenge
 Web Design Homework - Web Visualization Dashboard (Latitude)
